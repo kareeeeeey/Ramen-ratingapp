@@ -30,7 +30,7 @@ const ramens = [
   },
   {
     id: 4,
-    name: "pho ramen",
+    name: "Pho ramen",
     restaurant: "china town",
     image:
       "imgs/_ (3).jpeg", 
